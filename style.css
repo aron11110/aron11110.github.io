@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+h3 {
+    text-align: center;
+    color: white;
+}
+p {
+    text-align: center;
+    color: grey;
+}
+div {
+    margin: auto;
+    width: 50%;
+}
