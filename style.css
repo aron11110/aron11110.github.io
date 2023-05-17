@@ -19,6 +19,7 @@ p {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+    
 }
 #right_banner {
     float: right;
@@ -28,4 +29,19 @@ p {
 }
 div > h3 {
     font-size: x-large;
+}
+#tekst {
+    font-size: large;
+}
+#pilt {
+    display: flex;
+    justify-content: center;
+    width: 170px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pilt_on {
+    width: 450px;
+    height: 480px;
 }
