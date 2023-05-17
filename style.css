@@ -1,0 +1,31 @@
+body{
+    background-color: darkolivegreen;
+}
+h1 {
+    color: whitesmoke;
+}
+p {
+    color: whitesmoke;
+}
+.pealkiri {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sisu {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#right_banner {
+    float: right;
+}
+#left_banner {
+    float: left;
+}
+div > h3 {
+    font-size: x-large;
+}
